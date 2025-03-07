@@ -1,0 +1,14 @@
+While working on this assignment, I did not look at anybody else’s solution. I used the following help and outside resources:
+
+resources used:
+
+Oracle Java documentation
+Macalester College Graphics Library Documentation
+Geeksforgeeks
+
+help used:
+during the early stages of development i used some help from my cousin, who is a softawre engineer. he explained to me a little bit of the physics required
+to get this assgnement done. like how to use the values for horizontal and vertical velocity to reflect the ball.
+
+
+Abd Elkarim 
